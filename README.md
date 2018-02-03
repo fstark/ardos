@@ -1,5 +1,7 @@
 # Assemble
+```
 avra demo.asm
+```
 
 # Write to arduino
 ```
